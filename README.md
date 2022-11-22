@@ -1,4 +1,4 @@
-Laboratorio 07 - Introducción al Desarrollo de Nuevas Plataformas
+# Laboratorio 07 - Introducción al Desarrollo de Nuevas Plataformas
 Objetivo: Poder crear una aplicación en la que tenga:
 
 - Se pueda pasar entre 2 Fragments mediante el ButtomNavigationView para facilidad del usuario
